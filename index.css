@@ -1,0 +1,13 @@
+body{
+    background-color: black;
+}
+
+.navbar{
+    background-color: rgb(189, 14, 14);
+    color: rgb(244, 10, 10);
+}
+
+.navbar-nav{
+    display:flex;
+    flex-direction: row-reverse;
+}
